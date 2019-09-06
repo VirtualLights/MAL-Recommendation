@@ -6,10 +6,10 @@
 * Create model
 * Generate recommendations
 * Added k-fold cross validation to calculate training and testing AUC
+* Wrap code into functions
 
 # To Do:
 
 * Write a better README (with installation instructions, screenshots, etc.)
-* Wrap code into functions (sort of done?)
 * Add methods to add additional users and lists to the model
 * Potentially host parts of the program on a web server?
